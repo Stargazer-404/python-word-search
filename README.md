@@ -36,7 +36,7 @@ output<br>
 
 ## 📌 Example ( word_search_regex.py ) with re module
 input<br>
-Enter the words to be searched: python<br>
+Enter the words to be searched: py <br>
 
 output<br>
 2 match(es) found<br>
