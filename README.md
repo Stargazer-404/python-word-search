@@ -11,7 +11,7 @@ It only matches sentences that contain **all the given words** and sorts the res
 
 ## 🚀 Features
 - Case-insensitive search <br>
-- Matches sentences only if **all words** are present <br>
+- Matches sentences if **words** are present <br>
 - Sorts results by frequency of matched words <br>
 - Clean and beginner-friendly code <br>
 
